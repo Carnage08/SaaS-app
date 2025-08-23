@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Companions = () => {
+const CompanionsLibrary = () => {
   return (
     <div>Companions</div>
   )
 }
 
-export default Companions
+export default CompanionsLibrary
